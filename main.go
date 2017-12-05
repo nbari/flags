@@ -10,7 +10,7 @@ var RegionalIndicatorSymbolsAZ = map[string]string{
 	"G": "1F1EC",
 	"H": "1F1ED",
 	"I": "1F1EE",
-	"K": "1F1EF",
+	"J": "1F1EF",
 	"K": "1F1F0",
 	"L": "1F1F1",
 	"M": "1F1F2",
